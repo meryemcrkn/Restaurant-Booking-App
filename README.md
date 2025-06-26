@@ -194,19 +194,3 @@ npm run server
 4. Push yapın (`git push origin feature/amazing-feature`)
 5. Pull Request oluşturun
 
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır.
-
-## 📞 İletişim
-
-Proje hakkında sorularınız için:
-- Email: your-email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Teşekkürler
-
-- [Unsplash](https://unsplash.com) - Görseller için
-- [Lucide](https://lucide.dev) - İkonlar için
-- [Tailwind CSS](https://tailwindcss.com) - CSS framework için
-- [Google Fonts](https://fonts.google.com) - İtalyan tipografisi için 
